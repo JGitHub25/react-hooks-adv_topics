@@ -1,11 +1,11 @@
 import React from "react";
-import Setup from "./tutorial/1-useState/setup/5-useState-counter";
+import Setup from "./tutorial/2-useEffect/setup/3-useEffect-fetch-data";
 
 function App() {
   return (
     <div className="container">
       <Setup />
-      <h1>yeahso</h1>
+      {/* <h1>yeahso</h1> */}
     </div>
   );
 }
