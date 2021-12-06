@@ -1,11 +1,11 @@
 import React from "react";
-import Setup from "./tutorial/1-useState/setup/1-error-example";
+import Setup from "./tutorial/1-useState/setup/3-useState-array";
 
 function App() {
   return (
     <div className="container">
       <Setup />
-      <h1>yeahs</h1>
+      <h1>yeahso</h1>
     </div>
   );
 }
